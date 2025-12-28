@@ -200,7 +200,7 @@ try:
         st.markdown(f"""
         **Geological Insight:**  
         The selected village belongs to **{belonging_loc} zone**.  
-        Based on hydro-geological patterns, borewell drilling up to **~{pred_depth:.0f} meters**
+        Based on hydro-geological patterns, borewell drilling up to **~{pred_depth:.0f} feets**
         shows a **{pred_rate:.1f}% probability** of success.
         """)
 
@@ -222,3 +222,4 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.markdown("</div>", unsafe_allow_html=True)
+
