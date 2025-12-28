@@ -1,0 +1,384 @@
+location,taluka,water_depth_ft,water_depth_m,borewell_success_rate,soil_quality,status_prediction,belonging_location
+Nagbhir Town,Nagbhir,203.4120735,62,85,Hard Rock (Basalt),Success,Nagbhir
+Talodhi Bk.,Nagbhir,223.0971129,68,78,Sandy Loam,Success,Talodhi
+Kanpa,Nagbhir,301.8372703,92,42,Hard Rock,Fail,Kanpa
+Maushi,Nagbhir,177.1653543,54,88,Soft Murrum,Success,Maushi
+Kirmiti,Nagbhir,311.67979,95,38,Hard Basalt,Fail,Kirmiti
+Vilam,Nagbhir,213.2545932,65,75,Sandy Loam,Success,Nagbhir
+Pahami,Nagbhir,236.2204724,72,68,Hard Rock,Success,Talodhi
+Mindala,Nagbhir,278.8713911,85,52,Silty Soil,Fail,Kanpa
+Chargaon,Nagbhir,190.2887139,58,82,Alluvial,Success,Nagbhir
+Sawarhal,Nagbhir,360.8923885,110,30,Solid Rock,Fail,Kirmiti
+Govindpur,Nagbhir,229.6587927,70,72,Hard Rock,Success,Nagbhir
+Manapur,Nagbhir,209.9737533,64,80,Soft Rock,Success,Maushi
+Navkhala,Nagbhir,321.5223097,98,35,Dense Clay,Fail,Kanpa
+Ghodasari,Nagbhir,180.4461942,55,86,Alluvial,Success,Nagbhir
+Malewada,Nagbhir,255.9055118,78,65,Hard Rock,Success,Talodhi
+Bormala,Nagbhir,288.7139108,88,55,Fractured Rock,Fail,Kirmiti
+Mendha,Nagbhir,246.0629921,75,70,Soft Murrum,Success,Maushi
+Adyal,Nagbhir,196.8503937,60,78,Sandy Loam,Success,Nagbhir
+Bhivapur,Nagbhir,288.7139108,88,48,Hard Rock,Fail,Talodhi
+Mangli,Nagbhir,164.0419948,50,90,Alluvial,Success,Nagbhir
+Sukala,Nagbhir,183.7270341,56,84,Soft Murrum,Success,Maushi
+Pullar,Nagbhir,203.4120735,62,79,Loamy,Success,Nagbhir
+Wadala,Nagbhir,344.488189,105,28,Compact Basalt,Fail,Kirmiti
+Korsavi,Nagbhir,239.5013123,73,66,Hard Rock,Success,Kanpa
+Minjhari,Nagbhir,275.5905512,84,55,Hard Rock,Fail,Nagbhir
+Pardi,Nagbhir,193.5695538,59,81,Alluvial,Success,Nagbhir
+Kosamari,Nagbhir,252.6246719,77,63,Hard Rock,Success,Talodhi
+Chickhali,Nagbhir,298.5564304,91,44,Murrum,Fail,Kanpa
+Balapur,Nagbhir,170.6036745,52,87,Soft Soil,Success,Nagbhir
+Londi,Nagbhir,226.3779528,69,74,Sandy Loam,Success,Talodhi
+Zadala,Nagbhir,216.5354331,66,79,Soft Murrum,Success,Maushi
+Ghorpeth,Nagbhir,278.8713911,85,52,Hard Rock,Fail,Kanpa
+Navkhala Kh.,Nagbhir,308.3989501,94,39,Compact Rock,Fail,Kanpa
+Lakhamapur,Nagbhir,206.6929134,63,77,Sandy Loam,Success,Nagbhir
+Bhandeshwar,Nagbhir,229.6587927,70,71,Hard Rock,Success,Talodhi
+Ranbhori,Nagbhir,200.1312336,61,82,Soft Murrum,Success,Maushi
+Ushral,Nagbhir,291.9947507,89,49,Hard Rock,Fail,Kirmiti
+Gunjala,Nagbhir,187.007874,57,85,Alluvial,Success,Nagbhir
+Vihirgaon,Nagbhir,334.6456693,102,31,Compact Basalt,Fail,Kirmiti
+Kinha,Nagbhir,223.0971129,68,74,Hard Rock,Success,Talodhi
+Bramhapuri City,Bramhapuri,131.2335958,40,95,Alluvial,Success,Bramhapuri
+Adyal G.,Bramhapuri,144.3569554,44,88,Clayey,Success,Adyal
+Kothulna,Bramhapuri,150.9186352,46,86,Black Cotton,Success,Kothulna
+Aher Navargaon,Bramhapuri,157.480315,48,90,Alluvial,Success,Bramhapuri
+Halda,Bramhapuri,164.0419948,50,82,Loamy,Success,Halda
+Torgaon Bk.,Bramhapuri,334.6456693,102,32,Deep Silt,Fail,Torgaon
+Dharamapur,Bramhapuri,127.9527559,39,94,Near River Bed,Success,Bramhapuri
+Murmadi,Bramhapuri,180.4461942,55,78,Sandy Loam,Success,Halda
+Nanhori,Bramhapuri,196.8503937,60,75,Hard Rock,Success,Kothulna
+Khandla,Bramhapuri,301.8372703,92,42,Loose Soil,Fail,Torgaon
+Lakhamapur,Bramhapuri,137.7952756,42,92,Alluvial,Success,Bramhapuri
+Bhandeshwar,Bramhapuri,173.8845144,53,80,Loamy,Success,Adyal
+Ranbhori,Bramhapuri,147.6377953,45,89,Clayey,Success,Kothulna
+Ushral,Bramhapuri,190.2887139,58,76,Sandy Loam,Success,Halda
+Gunjala,Bramhapuri,124.671916,38,96,Alluvial,Success,Bramhapuri
+Pardi,Bramhapuri,157.480315,48,85,Black Cotton,Success,Kothulna
+Vihirgaon,Bramhapuri,354.3307087,108,24,Deep Clay,Fail,Torgaon
+Kinha,Bramhapuri,167.3228346,51,83,Alluvial,Success,Adyal
+Awale,Bramhapuri,154.1994751,47,87,Loamy,Success,Bramhapuri
+Bhadarpa,Bramhapuri,177.1653543,54,80,Sandy Soil,Success,Halda
+Dorli,Bramhapuri,134.5144357,41,92,Alluvial,Success,Bramhapuri
+Sonegaon,Bramhapuri,160.7611549,49,85,Clayey,Success,Kothulna
+Nilaj,Bramhapuri,213.2545932,65,72,Hard Rock,Success,Halda
+Vichurwa,Bramhapuri,187.007874,57,79,Loamy,Success,Bramhapuri
+Karkala,Bramhapuri,141.0761155,43,91,Alluvial,Success,Adyal
+Arher,Bramhapuri,170.6036745,52,82,Black Cotton,Success,Bramhapuri
+Dighori,Bramhapuri,193.5695538,59,78,Sandy Loam,Success,Halda
+Masal,Bramhapuri,203.4120735,62,71,Hard Rock,Success,Kothulna
+Sonegaon Kh.,Bramhapuri,150.9186352,46,88,Alluvial,Success,Bramhapuri
+Nilaj Kh.,Bramhapuri,209.9737533,64,74,Hard Rock,Success,Halda
+Chimur Town,Chimur,255.9055118,78,68,Metamorphic Rock,Success,Chimur
+Neri,Chimur,269.0288714,82,62,Fractured Rock,Success,Neri
+Bhisi,Chimur,278.8713911,85,58,Hard Basalt,Fail,Bhisi
+Khadsangi,Chimur,377.2965879,115,25,Decomposed Rock,Fail,Khadsangi
+Jambhul Ghat,Chimur,131.2335958,40,95,Fractured Basalt,Success,Neri
+Naleshwar,Chimur,124.671916,38,91,Near Reservoir,Success,Chimur
+Kolara,Chimur,410.1049869,125,20,Solid Bedrock,Fail,Khadsangi
+Kitsadi,Chimur,242.7821522,74,70,Hard Rock,Success,Neri
+Bormala,Chimur,288.7139108,88,55,Metamorphic,Fail,Bhisi
+Masal,Chimur,229.6587927,70,75,Soft Rock,Success,Chimur
+Satara,Chimur,295.2755906,90,48,Hard Rock,Fail,Chimur
+Palasgaon,Chimur,249.343832,76,69,Fractured Rock,Success,Neri
+Wadala,Chimur,275.5905512,84,60,Hard Rock,Fail,Bhisi
+Doma,Chimur,147.6377953,45,88,Alluvial,Success,Naleshwar
+Shedegaon,Chimur,311.67979,95,42,Compact Rock,Fail,Khadsangi
+Khomana,Chimur,262.4671916,80,64,Metamorphic,Success,Chimur
+Mangli,Chimur,236.2204724,72,71,Fractured Rock,Success,Neri
+Amadi,Chimur,334.6456693,102,38,Hard Rock,Fail,Khadsangi
+Shankarpur,Chimur,213.2545932,65,78,Soft Rock,Success,Bhisi
+Sawar,Chimur,291.9947507,89,52,Hard Rock,Fail,Chimur
+Tekadi,Chimur,367.4540682,112,28,Compact Basalt,Fail,Khadsangi
+Pimpri,Chimur,265.7480315,81,65,Hard Rock,Success,Chimur
+Wadhona,Chimur,259.1863517,79,61,Metamorphic,Success,Neri
+Kavadasi,Chimur,291.9947507,89,45,Solid Rock,Fail,Bhisi
+Sirpur,Chimur,232.9396325,71,78,Fractured Rock,Success,Neri
+Bamhani,Chimur,272.3097113,83,52,Hard Rock,Fail,Khadsangi
+Khairee,Chimur,127.9527559,39,93,Near Reservoir,Success,Naleshwar
+Metepunjji,Chimur,387.1391076,118,24,Solid Bedrock,Fail,Kolara
+Bhivapur Kh.,Chimur,239.5013123,73,71,Hard Rock,Success,Chimur
+Wadhona Kh.,Chimur,252.6246719,77,63,Metamorphic,Success,Neri
+Tekadi Kh.,Chimur,377.2965879,115,25,Compact Basalt,Fail,Khadsangi
+Kanhalgaon,Chimur,288.7139108,88,54,Hard Rock,Fail,Chimur
+Murti,Chimur,236.2204724,72,74,Fractured Rock,Success,Neri
+Kavadsi Bk.,Chimur,275.5905512,84,59,Hard Rock,Fail,Bhisi
+Sindewahi Town,Sindewahi,170.6036745,52,84,Red Sandy Soil,Success,Sindewahi
+Navargaon,Sindewahi,190.2887139,58,80,Lateritic,Success,Navargaon
+Gunjewahi,Sindewahi,203.4120735,62,75,Red Sandy Soil,Success,Gunjewahi
+Ratnapur,Sindewahi,213.2545932,65,72,Hard Rock,Success,Ratnapur
+Wasera,Sindewahi,410.1049869,125,22,Dry Clay,Fail,Wasera
+Ladbori,Sindewahi,150.9186352,46,90,Alluvial,Success,Ladbori
+Antargaon,Sindewahi,180.4461942,55,82,Sandy Loam,Success,Antargaon
+Minjhari,Sindewahi,321.5223097,98,42,Hard Rock,Fail,Ratnapur
+Lonkhairi,Sindewahi,196.8503937,60,78,Lateritic,Success,Navargaon
+Bhejgaon,Sindewahi,177.1653543,54,85,Alluvial,Success,Sindewahi
+Mendha,Sindewahi,252.6246719,77,66,Hard Rock,Success,Mendha
+Ekara,Sindewahi,167.3228346,51,88,Soft Murrum,Success,Sindewahi
+Mokasa,Sindewahi,223.0971129,68,70,Lateritic,Success,Sindewahi
+Pathari,Sindewahi,193.5695538,59,79,Sandy Soil,Success,Navargaon
+Wajha,Sindewahi,377.2965879,115,28,Compact Rock,Fail,Wasera
+Borgaon,Sindewahi,173.8845144,53,86,Alluvial,Success,Sindewahi
+Pardi,Sindewahi,209.9737533,64,74,Lateritic,Success,Navargaon
+Nimgaon,Sindewahi,269.0288714,82,55,Hard Rock,Fail,Gunjewahi
+Shivapur,Sindewahi,157.480315,48,89,Alluvial,Success,Ladbori
+Kudesavit,Sindewahi,229.6587927,70,71,Sandy Loam,Success,Antargaon
+Murpa,Sindewahi,278.8713911,85,52,Hard Rock,Fail,Ratnapur
+Wadala,Sindewahi,187.007874,57,80,Alluvial,Success,Sindewahi
+Palasgaon Kh.,Sindewahi,209.9737533,64,76,Lateritic,Success,Navargaon
+Mendha Bk.,Sindewahi,246.0629921,75,69,Hard Rock,Success,Mendha
+Wajha Kh.,Sindewahi,367.4540682,112,29,Compact Rock,Fail,Wasera
+Narnala,Sindewahi,190.2887139,58,82,Sandy Loam,Success,Sindewahi
+Gunjewahi Tola,Sindewahi,196.8503937,60,77,Red Sandy Soil,Success,Gunjewahi
+Dongargaon Kh.,Sindewahi,203.4120735,62,76,Lateritic,Success,Gunjewahi
+Wadala Kh.,Sindewahi,180.4461942,55,81,Alluvial,Success,Sindewahi
+Adyal Mendha,Nagbhir,203.4120735,62,79,Soft Murrum,Success,Nagbhir
+Bhandeshwar Kh,Nagbhir,232.9396325,71,68,Hard Rock,Success,Talodhi
+Chinchala Tola,Nagbhir,177.1653543,54,86,Alluvial,Success,Nagbhir
+Dighori Kh,Nagbhir,219.816273,67,73,Sandy Loam,Success,Nagbhir
+Ghodasari Tola,Nagbhir,193.5695538,59,81,Alluvial,Success,Nagbhir
+Halda Bk,Nagbhir,246.0629921,75,64,Hard Rock,Success,Talodhi
+Khandla Kh,Nagbhir,288.7139108,88,48,Compact Rock,Fail,Kanpa
+Lakhamapur Kh,Nagbhir,200.1312336,61,82,Soft Murrum,Success,Nagbhir
+Minjhari Tola,Nagbhir,269.0288714,82,55,Hard Rock,Fail,Kanpa
+Navkhala Bk,Nagbhir,314.9606299,96,36,Compact Basalt,Fail,Kirmiti
+Pardi Tola,Nagbhir,173.8845144,53,88,Alluvial,Success,Nagbhir
+Ranbhori Kh,Nagbhir,226.3779528,69,71,Hard Rock,Success,Talodhi
+Sukala Kh,Nagbhir,187.007874,57,84,Soft Murrum,Success,Maushi
+Torgaon Tola,Nagbhir,334.6456693,102,29,Solid Rock,Fail,Kirmiti
+Ushral Kh,Nagbhir,242.7821522,74,66,Hard Rock,Success,Nagbhir
+Vihirgaon Tola,Nagbhir,354.3307087,108,25,Compact Basalt,Fail,Kirmiti
+Zadala Kh,Nagbhir,209.9737533,64,78,Sandy Loam,Success,Maushi
+Balapur Tola,Nagbhir,164.0419948,50,91,Alluvial,Success,Nagbhir
+Chickhali Tola,Nagbhir,278.8713911,85,52,Murrum,Fail,Kanpa
+Kosamari Kh,Nagbhir,255.9055118,78,63,Hard Rock,Success,Talodhi
+Pullar Tola,Nagbhir,196.8503937,60,82,Loamy,Success,Nagbhir
+Wadala Tola,Nagbhir,367.4540682,112,22,Solid Rock,Fail,Kirmiti
+Chargaon Kh,Nagbhir,190.2887139,58,84,Alluvial,Success,Nagbhir
+Govindpur Tola,Nagbhir,236.2204724,72,70,Hard Rock,Success,Nagbhir
+Manapur Kh,Nagbhir,213.2545932,65,78,Soft Rock,Success,Maushi
+Mindala Tola,Nagbhir,272.3097113,83,54,Silty Soil,Fail,Kanpa
+Pahami Kh,Nagbhir,229.6587927,70,72,Hard Rock,Success,Talodhi
+Sawarhal Kh,Nagbhir,344.488189,105,32,Solid Rock,Fail,Kirmiti
+Vilam Tola,Nagbhir,206.6929134,63,79,Sandy Loam,Success,Nagbhir
+Bond Tola,Nagbhir,216.5354331,66,74,Murrum,Success,Nagbhir
+Aher Navargaon Kh,Bramhapuri,150.9186352,46,88,Alluvial,Success,Bramhapuri
+Bhadarpa Tola,Bramhapuri,170.6036745,52,82,Sandy Soil,Success,Halda
+Dorli Kh,Bramhapuri,131.2335958,40,94,Alluvial,Success,Bramhapuri
+Ekara Tola,Bramhapuri,157.480315,48,85,Clayey,Success,Adyal
+Gunjala Kh,Bramhapuri,121.3910761,37,97,Alluvial,Success,Bramhapuri
+Halda Tola,Bramhapuri,167.3228346,51,80,Loamy,Success,Halda
+Karkala Kh,Bramhapuri,137.7952756,42,93,Alluvial,Success,Adyal
+Lakhamapur Tola,Bramhapuri,141.0761155,43,90,Alluvial,Success,Bramhapuri
+Murmadi Kh,Bramhapuri,177.1653543,54,79,Sandy Loam,Success,Halda
+Nilaj Tola,Bramhapuri,206.6929134,63,73,Hard Rock,Success,Halda
+Ranbhori Tola,Bramhapuri,144.3569554,44,91,Clayey,Success,Kothulna
+Sonegaon Kh,Bramhapuri,154.1994751,47,86,Alluvial,Success,Kothulna
+Torgaon Kh,Bramhapuri,321.5223097,98,34,Deep Silt,Fail,Torgaon
+Ushral Tola,Bramhapuri,183.7270341,56,78,Sandy Loam,Success,Halda
+Vichurwa Kh,Bramhapuri,173.8845144,53,81,Loamy,Success,Bramhapuri
+Awale Tola,Bramhapuri,147.6377953,45,89,Alluvial,Success,Bramhapuri
+Dharamapur Kh,Bramhapuri,124.671916,38,95,Near River,Success,Bramhapuri
+Khandla Tola,Bramhapuri,295.2755906,90,44,Loose Soil,Fail,Torgaon
+Kinha Kh,Bramhapuri,164.0419948,50,84,Alluvial,Success,Adyal
+Kothulna Tola,Bramhapuri,150.9186352,46,87,Black Cotton,Success,Kothulna
+Nanhori Kh,Bramhapuri,193.5695538,59,76,Hard Rock,Success,Kothulna
+Pardi Tola,Bramhapuri,160.7611549,49,83,Black Cotton,Success,Kothulna
+Vihirgaon Kh,Bramhapuri,344.488189,105,26,Deep Clay,Fail,Torgaon
+Bhandeshwar Kh,Bramhapuri,170.6036745,52,82,Loamy,Success,Adyal
+Adyal Tola,Bramhapuri,141.0761155,43,90,Clayey,Success,Adyal
+Nilaj Bk,Bramhapuri,200.1312336,61,77,Alluvial,Success,Halda
+Arher Kh,Bramhapuri,164.0419948,50,84,Black Cotton,Success,Bramhapuri
+Masal Tola,Bramhapuri,196.8503937,60,74,Hard Rock,Success,Kothulna
+Amadi Tola,Chimur,344.488189,105,33,Hard Rock,Fail,Khadsangi
+Bamhani Kh,Chimur,262.4671916,80,55,Hard Rock,Fail,Khadsangi
+Bormala Tola,Chimur,278.8713911,85,58,Metamorphic,Fail,Bhisi
+Doma Tola,Chimur,144.3569554,44,89,Alluvial,Success,Naleshwar
+Jambhul Ghat Tola,Chimur,137.7952756,42,93,Fractured Rock,Success,Neri
+Kavadasi Bk,Chimur,285.4330709,87,48,Solid Rock,Fail,Bhisi
+Khadsangi Kh,Chimur,367.4540682,112,27,Compact Rock,Fail,Khadsangi
+Khomana Tola,Chimur,259.1863517,79,66,Metamorphic,Success,Chimur
+Kitsadi Kh,Chimur,239.5013123,73,72,Hard Rock,Success,Neri
+Kolara Tola,Chimur,400.2624672,122,21,Solid Bedrock,Fail,Kolara
+Mangli Tola,Chimur,229.6587927,70,73,Fractured Rock,Success,Neri
+Masal Kh,Chimur,223.0971129,68,77,Soft Rock,Success,Chimur
+Metepunjji Tola,Chimur,377.2965879,115,25,Solid Bedrock,Fail,Kolara
+Naleshwar Kh,Chimur,121.3910761,37,92,Near Water,Success,Naleshwar
+Neri Tola,Chimur,265.7480315,81,64,Fractured Rock,Success,Neri
+Palasgaon Kh,Chimur,246.0629921,75,70,Fractured Rock,Success,Neri
+Pimpri Tola,Chimur,255.9055118,78,68,Hard Rock,Success,Chimur
+Satara Kh,Chimur,288.7139108,88,50,Hard Rock,Fail,Chimur
+Shankarpur Tola,Chimur,203.4120735,62,81,Soft Rock,Success,Bhisi
+Shedegaon Kh,Chimur,305.1181102,93,40,Compact Rock,Fail,Khadsangi
+Sirpur Tola,Chimur,229.6587927,70,79,Fractured Rock,Success,Neri
+Tekadi Tola,Chimur,387.1391076,118,23,Compact Basalt,Fail,Khadsangi
+Wadhona Tola,Chimur,249.343832,76,65,Metamorphic,Success,Neri
+Bhivapur Bk,Chimur,236.2204724,72,73,Hard Rock,Success,Chimur
+Kanhalgaon Tola,Chimur,282.152231,86,52,Hard Rock,Fail,Chimur
+Wadala Kh,Chimur,272.3097113,83,61,Hard Rock,Fail,Bhisi
+Sawar Tola,Chimur,295.2755906,90,49,Hard Rock,Fail,Chimur
+Antargaon Tola,Sindewahi,177.1653543,54,83,Sandy Loam,Success,Antargaon
+Bhejgaon Kh,Sindewahi,173.8845144,53,86,Alluvial,Success,Sindewahi
+Borgaon Tola,Sindewahi,167.3228346,51,89,Alluvial,Success,Sindewahi
+Dongargaon Tola,Sindewahi,200.1312336,61,77,Lateritic,Success,Gunjewahi
+Ekara Kh,Sindewahi,164.0419948,50,91,Soft Murrum,Success,Sindewahi
+Gunjewahi Tola,Sindewahi,196.8503937,60,78,Red Sandy Soil,Success,Gunjewahi
+Kudesavit Tola,Sindewahi,226.3779528,69,73,Sandy Loam,Success,Antargaon
+Ladbori Kh,Sindewahi,147.6377953,45,91,Alluvial,Success,Ladbori
+Lonkhairi Tola,Sindewahi,193.5695538,59,79,Lateritic,Success,Navargaon
+Mendha Kh,Sindewahi,249.343832,76,68,Hard Rock,Success,Mendha
+Minjhari Tola,Sindewahi,311.67979,95,45,Hard Rock,Fail,Ratnapur
+Mokasa Kh,Sindewahi,219.816273,67,72,Lateritic,Success,Sindewahi
+Navargaon Kh,Sindewahi,183.7270341,56,82,Lateritic,Success,Navargaon
+Nimgaon Tola,Sindewahi,265.7480315,81,57,Hard Rock,Fail,Gunjewahi
+Pardi Kh,Sindewahi,206.6929134,63,76,Lateritic,Success,Navargaon
+Pathari Tola,Sindewahi,187.007874,57,81,Sandy Soil,Success,Navargaon
+Ratnapur Kh,Sindewahi,209.9737533,64,74,Hard Rock,Success,Ratnapur
+Shivapur Tola,Sindewahi,150.9186352,46,91,Alluvial,Success,Ladbori
+Wadala Kh,Sindewahi,183.7270341,56,81,Alluvial,Success,Sindewahi
+Wajha Tola,Sindewahi,360.8923885,110,30,Compact Rock,Fail,Wasera
+Wasera Kh,Sindewahi,400.2624672,122,23,Dry Clay,Fail,Wasera
+Murpa Tola,Sindewahi,272.3097113,83,53,Hard Rock,Fail,Ratnapur
+Narnala Kh,Sindewahi,187.007874,57,83,Sandy Loam,Success,Sindewahi
+Palasgaon Tola,Sindewahi,206.6929134,63,77,Lateritic,Success,Navargaon
+Mendha Bk,Sindewahi,242.7821522,74,70,Hard Rock,Success,Mendha
+Nawargaon Chak,Nagbhir,216.5354331,66,74,Soft Murrum,Success,Nagbhir
+Ghorpeth Tola,Nagbhir,288.7139108,88,48,Hard Rock,Fail,Kanpa
+Sonegaon Chak,Nagbhir,200.1312336,61,82,Alluvial,Success,Nagbhir
+Bhavapur Kh,Nagbhir,262.4671916,80,56,Hard Rock,Fail,Talodhi
+Korsavi Tola,Nagbhir,246.0629921,75,67,Hard Rock,Success,Kanpa
+Wadala Chak,Nagbhir,354.3307087,108,27,Compact Rock,Fail,Kirmiti
+Sukala Chak,Nagbhir,193.5695538,59,85,Soft Murrum,Success,Maushi
+Zadala Peth,Nagbhir,219.816273,67,78,Sandy Loam,Success,Maushi
+Mindala Kh,Nagbhir,269.0288714,82,53,Silty Soil,Fail,Talodhi
+Minjhari Chak,Nagbhir,259.1863517,79,63,Hard Rock,Success,Nagbhir
+Pathari Tola,Nagbhir,239.5013123,73,69,Hard Rock,Success,Talodhi
+Govindpur Kh,Nagbhir,223.0971129,68,76,Soft Rock,Success,Nagbhir
+Navkhala Tola,Nagbhir,308.3989501,94,39,Dense Clay,Fail,Kanpa
+Balapur Kh,Nagbhir,177.1653543,54,89,Alluvial,Success,Nagbhir
+Londi Tola,Nagbhir,229.6587927,70,72,Sandy Loam,Success,Talodhi
+Chickhali Chak,Nagbhir,285.4330709,87,49,Murrum,Fail,Kanpa
+Mangli Kh,Nagbhir,173.8845144,53,88,Alluvial,Success,Nagbhir
+Kosamari Chak,Nagbhir,249.343832,76,64,Hard Rock,Success,Talodhi
+Mendha Kh,Nagbhir,242.7821522,74,71,Soft Murrum,Success,Maushi
+Pahami Tola,Nagbhir,226.3779528,69,73,Hard Rock,Success,Talodhi
+Bhalewada Kh,Bramhapuri,134.5144357,41,94,Alluvial,Success,Bramhapuri
+Dighori Tola,Bramhapuri,180.4461942,55,80,Sandy Loam,Success,Halda
+Khandla Kh,Bramhapuri,305.1181102,93,42,Loose Soil,Fail,Torgaon
+Lakhamapur Chak,Bramhapuri,141.0761155,43,91,Alluvial,Success,Bramhapuri
+Bhandeshwar Tola,Bramhapuri,170.6036745,52,82,Loamy,Success,Adyal
+Ranbhori Chak,Bramhapuri,150.9186352,46,89,Clayey,Success,Kothulna
+Ushral Kh,Bramhapuri,190.2887139,58,76,Sandy Loam,Success,Halda
+Gunjala Tola,Bramhapuri,124.671916,38,96,Alluvial,Success,Bramhapuri
+Vihirgaon Chak,Bramhapuri,354.3307087,108,24,Deep Clay,Fail,Torgaon
+Karkala Tola,Bramhapuri,141.0761155,43,91,Alluvial,Success,Adyal
+Awale Kh,Bramhapuri,157.480315,48,87,Loamy,Success,Bramhapuri
+Dorli Tola,Bramhapuri,137.7952756,42,92,Alluvial,Success,Bramhapuri
+Sonegaon Tola,Bramhapuri,160.7611549,49,85,Clayey,Success,Kothulna
+Nilaj Chak,Bramhapuri,206.6929134,63,73,Hard Rock,Success,Halda
+Vichurwa Tola,Bramhapuri,180.4461942,55,80,Loamy,Success,Bramhapuri
+Dharamapur Tola,Bramhapuri,127.9527559,39,94,River Alluvial,Success,Bramhapuri
+Karkala Chak,Bramhapuri,144.3569554,44,89,Alluvial,Success,Adyal
+Adyal Kh,Bramhapuri,147.6377953,45,88,Clayey,Success,Adyal
+Kothulna Kh,Bramhapuri,154.1994751,47,86,Black Cotton,Success,Kothulna
+Halda Kh,Bramhapuri,170.6036745,52,81,Sandy Loam,Success,Halda
+Satara Tola,Chimur,291.9947507,89,49,Hard Rock,Fail,Chimur
+Palasgaon Chak,Chimur,249.343832,76,70,Fractured Rock,Success,Neri
+Wadala Tola,Chimur,275.5905512,84,58,Hard Rock,Fail,Bhisi
+Doma Chak,Chimur,147.6377953,45,88,Alluvial,Success,Naleshwar
+Shedegaon Tola,Chimur,314.9606299,96,39,Compact Rock,Fail,Khadsangi
+Khomana Kh,Chimur,262.4671916,80,64,Metamorphic,Success,Chimur
+Mangli Chak,Chimur,236.2204724,72,71,Fractured Rock,Success,Neri
+Amadi Kh,Chimur,337.9265092,103,34,Hard Rock,Fail,Khadsangi
+Shankarpur Kh,Chimur,209.9737533,64,79,Soft Rock,Success,Bhisi
+Sawar Peth,Chimur,298.5564304,91,48,Hard Rock,Fail,Chimur
+Tekadi Chak,Chimur,380.5774278,116,24,Compact Basalt,Fail,Khadsangi
+Pimpri Kh,Chimur,259.1863517,79,68,Hard Rock,Success,Chimur
+Wadhona Kh,Chimur,255.9055118,78,63,Metamorphic,Success,Neri
+Kavadasi Tola,Chimur,291.9947507,89,45,Solid Rock,Fail,Bhisi
+Sirpur Kh,Chimur,232.9396325,71,78,Fractured Rock,Success,Neri
+Bamhani Tola,Chimur,275.5905512,84,51,Hard Rock,Fail,Khadsangi
+Khairee Kh,Chimur,131.2335958,40,92,Near Reservoir,Success,Naleshwar
+Metepunjji Kh,Chimur,387.1391076,118,23,Solid Bedrock,Fail,Kolara
+Bhivapur Chak,Chimur,242.7821522,74,72,Hard Rock,Success,Chimur
+Kanhalgaon Kh,Chimur,288.7139108,88,51,Hard Rock,Fail,Chimur
+Mokasa Tola,Sindewahi,223.0971129,68,71,Lateritic,Success,Sindewahi
+Pathari Kh,Sindewahi,193.5695538,59,80,Sandy Soil,Success,Navargaon
+Wajha Tola,Sindewahi,377.2965879,115,28,Compact Rock,Fail,Wasera
+Borgaon Kh,Sindewahi,170.6036745,52,88,Alluvial,Success,Sindewahi
+Pardi Tola,Sindewahi,209.9737533,64,74,Lateritic,Success,Navargaon
+Nimgaon Kh,Sindewahi,269.0288714,82,55,Hard Rock,Fail,Gunjewahi
+Shivapur Kh,Sindewahi,150.9186352,46,91,Alluvial,Success,Ladbori
+Kudesavit Kh,Sindewahi,229.6587927,70,71,Sandy Loam,Success,Antargaon
+Murpa Kh,Sindewahi,278.8713911,85,52,Hard Rock,Fail,Ratnapur
+Wadala Tola,Sindewahi,180.4461942,55,82,Alluvial,Success,Sindewahi
+Dongargaon Kh,Sindewahi,203.4120735,62,76,Lateritic,Success,Gunjewahi
+Mendha Tola,Sindewahi,246.0629921,75,69,Hard Rock,Success,Mendha
+Wasera Tola,Sindewahi,393.7007874,120,24,Dry Clay,Fail,Wasera
+Ratnapur Kh,Sindewahi,213.2545932,65,73,Hard Rock,Success,Ratnapur
+Gunjewahi Kh,Sindewahi,196.8503937,60,78,Red Sandy Soil,Success,Gunjewahi
+Ladbori Tola,Sindewahi,154.1994751,47,89,Alluvial,Success,Ladbori
+Antargaon Kh,Sindewahi,177.1653543,54,82,Sandy Loam,Success,Antargaon
+Narnala Tola,Sindewahi,193.5695538,59,81,Sandy Loam,Success,Sindewahi
+Lonkhairi Kh,Sindewahi,200.1312336,61,77,Lateritic,Success,Navargaon
+Bhejgaon Tola,Sindewahi,177.1653543,54,85,Alluvial,Success,Sindewahi
+Ghodasari F.S.,Nagbhir,223.0971129,68,76,Soft Murrum,Success,Nagbhir
+Pahami Chak,Nagbhir,239.5013123,73,69,Hard Rock,Success,Talodhi
+Minjhari Kh.,Nagbhir,282.152231,86,51,Hard Rock,Fail,Nagbhir
+Ranbhori Tola,Nagbhir,209.9737533,64,79,Sandy Loam,Success,Maushi
+Sukala F.S.,Nagbhir,190.2887139,58,83,Alluvial,Success,Maushi
+Wadala Peth,Nagbhir,367.4540682,112,26,Solid Rock,Fail,Kirmiti
+Zadala Chak,Nagbhir,226.3779528,69,74,Murrum,Success,Maushi
+Korsavi Kh.,Nagbhir,252.6246719,77,63,Hard Rock,Success,Kanpa
+Govindpur Chak,Nagbhir,232.9396325,71,72,Soft Rock,Success,Nagbhir
+Mindala Kh.,Nagbhir,275.5905512,84,48,Silty Soil,Fail,Kanpa
+Balapur Kh.,Nagbhir,173.8845144,53,88,Alluvial,Success,Nagbhir
+Londi Kh.,Nagbhir,236.2204724,72,70,Sandy Loam,Success,Talodhi
+Kosamari Kh.,Nagbhir,259.1863517,79,61,Hard Rock,Success,Talodhi
+Chickhali Tola,Nagbhir,298.5564304,91,42,Compact Rock,Fail,Kanpa
+Bond Kh.,Nagbhir,206.6929134,63,79,Soft Murrum,Success,Nagbhir
+Nilaj Peth,Bramhapuri,213.2545932,65,72,Alluvial,Success,Halda
+Vichurwa Chak,Bramhapuri,183.7270341,56,81,Loamy,Success,Bramhapuri
+Dighori Kh.,Bramhapuri,196.8503937,60,76,Sandy Loam,Success,Halda
+Karkala Peth,Bramhapuri,134.5144357,41,92,Alluvial,Success,Adyal
+Masal Chak,Bramhapuri,206.6929134,63,70,Hard Rock,Success,Kothulna
+Bhalewada Tola,Bramhapuri,131.2335958,40,93,Alluvial,Success,Bramhapuri
+Ushral Chak,Bramhapuri,193.5695538,59,75,Sandy Loam,Success,Halda
+Awale Peth,Bramhapuri,150.9186352,46,89,Loamy,Success,Bramhapuri
+Ranbhori Tola,Bramhapuri,147.6377953,45,91,Clayey,Success,Kothulna
+Halda Peth,Bramhapuri,170.6036745,52,80,Sandy Loam,Success,Halda
+Torgaon Peth,Bramhapuri,331.3648294,101,31,Deep Silt,Fail,Torgaon
+Dharamapur Chak,Bramhapuri,124.671916,38,95,River Soil,Success,Bramhapuri
+Khandla Peth,Bramhapuri,308.3989501,94,39,Loose Soil,Fail,Torgaon
+Sonegaon Chak,Bramhapuri,157.480315,48,86,Clayey,Success,Kothulna
+Kinha Peth,Bramhapuri,167.3228346,51,83,Alluvial,Success,Adyal
+Sirpur Chak,Chimur,242.7821522,74,74,Fractured Rock,Success,Neri
+Bamhani Kh.,Chimur,282.152231,86,49,Hard Rock,Fail,Khadsangi
+Khairee Tola,Chimur,134.5144357,41,91,Near Reservoir,Success,Naleshwar
+Metepunjji Chak,Chimur,393.7007874,120,22,Solid Bedrock,Fail,Kolara
+Bhivapur Tola,Chimur,246.0629921,75,68,Hard Rock,Success,Chimur
+Kanhalgaon Kh.,Chimur,295.2755906,90,48,Hard Rock,Fail,Chimur
+Wadala Tola,Chimur,265.7480315,81,63,Fractured Rock,Success,Bhisi
+Sawar Chak,Chimur,301.8372703,92,45,Hard Rock,Fail,Chimur
+Tekadi Peth,Chimur,383.8582677,117,21,Compact Basalt,Fail,Khadsangi
+Pimpri Chak,Chimur,262.4671916,80,64,Hard Rock,Success,Chimur
+Wadhona Peth,Chimur,259.1863517,79,62,Metamorphic,Success,Neri
+Kavadasi Kh.,Chimur,305.1181102,93,41,Solid Rock,Fail,Bhisi
+Satara Peth,Chimur,298.5564304,91,47,Hard Rock,Fail,Chimur
+Palasgaon Peth,Chimur,255.9055118,78,67,Fractured Rock,Success,Neri
+Mangli Tola,Chimur,242.7821522,74,69,Hard Rock,Success,Neri
+Narnala Kh.,Sindewahi,196.8503937,60,79,Sandy Loam,Success,Sindewahi
+Lonkhairi Peth,Sindewahi,203.4120735,62,75,Lateritic,Success,Navargaon
+Bhejgaon Chak,Sindewahi,180.4461942,55,83,Alluvial,Success,Sindewahi
+Mendha Kh.,Sindewahi,259.1863517,79,64,Hard Rock,Success,Mendha
+Ekara Peth,Sindewahi,170.6036745,52,88,Soft Murrum,Success,Sindewahi
+Mokasa Chak,Sindewahi,229.6587927,70,69,Lateritic,Success,Sindewahi
+Pathari Peth,Sindewahi,200.1312336,61,78,Sandy Soil,Success,Navargaon
+Wajha Tola,Sindewahi,383.8582677,117,26,Compact Rock,Fail,Wasera
+Borgaon Chak,Sindewahi,177.1653543,54,86,Alluvial,Success,Sindewahi
+Pardi Peth,Sindewahi,216.5354331,66,72,Lateritic,Success,Navargaon
+Nimgaon Kh.,Sindewahi,272.3097113,83,53,Hard Rock,Fail,Gunjewahi
+Shivapur Chak,Sindewahi,157.480315,48,89,Alluvial,Success,Ladbori
+Kudesavit Peth,Sindewahi,232.9396325,71,70,Sandy Loam,Success,Antargaon
+Murpa Tola,Sindewahi,285.4330709,87,49,Hard Rock,Fail,Ratnapur
+Wadala Chak,Sindewahi,187.007874,57,79,Alluvial,Success,Sindewahi
