@@ -183,7 +183,7 @@ try:
 
         r1, r2, r3, r4 = st.columns(4)
 
-        r1.metric("💧 Estimated Water Depth", f"{pred_depth:.2f} m")
+        r1.metric("💧 Estimated Water Depth", f"{pred_depth:.2f} ft")
         r2.metric("📈 Success Probability", f"{pred_rate:.1f}%")
 
         with r3:
