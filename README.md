@@ -2,6 +2,7 @@
 
 The **Yashoda Borewell Success Predictor** is a **machine learning–powered web application** that predicts borewell water depth, success probability, soil suitability, and drilling outcome based on village and taluka-level data. The tool helps **farmers, contractors, and planners** make informed decisions for groundwater drilling using **data-driven insights**.
 
+**APP LINK:https://borewellpred.streamlit.app/**
 ---
 
 ## 📌 1. Project Objective
